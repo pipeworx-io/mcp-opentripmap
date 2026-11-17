@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-opentripmap",
-  "version": "0.2.1",
-  "description": "OpenTripMap MCP — wraps the OpenTripMap Places API (dev.opentripmap.org)",
+  "version": "0.2.2",
+  "description": "Unofficial OpenTripMap MCP — wraps the OpenTripMap Places API (dev.opentripmap.org)",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "opentripmap",
     "gatewaySlug": "opentripmap",
-    "sourceHash": "v1-8151688c3d146c8c95c46abf6566dd954c62a3ae5b781d7f6c66473f6aa75dd3",
-    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
+    "sourceHash": "v1-bfc5ccb24986187cd342bb3d7087e375c4373e4d09191b36186a1d77645acf33",
+    "sourceCommit": "6e7ae693219a515a7ee6dd88d02390ab290fbad3"
   }
 }
